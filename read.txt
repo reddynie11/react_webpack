@@ -25,4 +25,5 @@ step 8:
     create .babelrc file in project folder
 
 step 9:
-    start : "webpack-dev-server" in package.json
+    "start" : "webpack-dev-server" in package.json
+    "build" : "webpack" in package.json (to build bundle for production)
